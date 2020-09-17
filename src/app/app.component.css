@@ -1,0 +1,14 @@
+.er-block {
+    display: inline-block;
+    padding: 0.5em;
+    border: 1px solid royalblue;
+    border-radius: 0.5em;
+    margin: 0.25em;
+}
+
+.er-block > .er-field {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
